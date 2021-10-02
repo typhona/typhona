@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML CSS Javascript PHP MySQL
 - 🌱 I’m currently catching up on modern coding best practices and JS
 - 💞️ I’m looking to collaborate on anything within my skill set especially if it is a cool looking/useless visualization
-- 📫 How to reach me at my username  here and the googles mail app........
+- 📫 How to reach me ---- typhona @ the googles mail app........
 
 <!---
 typhona/typhona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
