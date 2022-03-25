@@ -7,6 +7,7 @@
 I just downloaded, and then, nuked my entire set of repositories. 
 I will be adding new ones soon and possibly reuploading the ones that I deleted.
 I just wanted a clean start, that will hopefully be a little more organized and presentable
+**Update** not really any more organized than the original hot mess, but I feel like I know what Im doing way more than I had previously 
 
 <!---
 typhona/typhona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
